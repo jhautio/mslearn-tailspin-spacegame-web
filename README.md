@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devjha/Space%20Game%20-%20web%20-Pipeline/_apis/build/status/jhautio.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/devjha/Space%20Game%20-%20web%20-Pipeline/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
